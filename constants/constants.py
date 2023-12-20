@@ -22,7 +22,7 @@ class Constants:
     # 工程根目录
     ROOT_PATH = ROOT_PATH
     # 是否是 release 版本
-    VERSION = "debug"
+    VERSION = "release"
     # 是否为可执行文件
     FROZEN = FROZEN
 
