@@ -1,0 +1,2 @@
+# E5_Subscription_AutoActive
+基于onedrive 自动上载文件自动续订微软E5开发者账号
