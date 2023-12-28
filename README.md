@@ -3,6 +3,9 @@
 基于Microsoft Graph REST API 自动调用OneDrive 相关 api 请求，模拟开发者活动
 以续订微软E5开发者账号
 
+官方SDK在请求文件内容时存在重定向BUG[GitHub ISSUES](https://github.com/microsoftgraph/msgraph-sdk-python/issues/504),推荐使用E5_Subscription_AutoActive_ByPython
+
+
 ## 使用说明
 
 在配置文件 config/config.ini 中指定相关程序参数后，点击/bin/E5KeepActive.exe 文件运行程序。
