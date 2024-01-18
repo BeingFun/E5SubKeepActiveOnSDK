@@ -3,7 +3,7 @@
 基于Microsoft Graph REST API 自动调用OneDrive 相关 api 请求，模拟开发者活动
 以续订微软E5开发者账号
 
-官方SDK在请求文件内容时存在重定向BUG[GitHub ISSUES](https://github.com/microsoftgraph/msgraph-sdk-python/issues/504),推荐使用E5_Subscription_AutoActive_ByPython
+官方SDK在请求文件内容时存在重定向严重BUG,详见 [GitHub ISSUES](https://github.com/microsoftgraph/msgraph-sdk-python/issues/504),推荐使用E5SubKeepActive
 
 
 ## 使用说明
